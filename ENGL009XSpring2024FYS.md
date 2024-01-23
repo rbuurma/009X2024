@@ -16,7 +16,7 @@ We often think of literature and "the humanities" as far removed from quantifica
 
 ## part 1: Close Reading and Distant Reading
 
-### Week I
+### Week 1
 
 #### January 23
 + Welcome and Introduction
@@ -26,8 +26,9 @@ We often think of literature and "the humanities" as far removed from quantifica
 + in class: close reading novels
 + Writing Assignment #1 assigned
 + Jonathan Kramnick, excerpt from *Criticism and Truth*
++ Gwendolyn Brooks, "A Light and Diplomatic Bird"
 
-### Week II
+### Week 2
 
 #### January 30
 + *Emma* p 1-107
@@ -37,7 +38,7 @@ We often think of literature and "the humanities" as far removed from quantifica
 + Sarah Allison, a few pages from "Reductive Reading"
 + Stephen Ramsay, "Toward an Algorithmic Criticism" from *Reading Machines*
 
-### Week III
+### Week 3
 
 #### February 6
 + *Emma*, p 108-211
@@ -47,7 +48,7 @@ We often think of literature and "the humanities" as far removed from quantifica
 + Sarah Allison, "Other Peoples' Data"
 + Writing Assignment #1 prewriting due
 
-### Week IV:
+### Week 4
 
 #### February 13
 + *Emma*, p 212-306
@@ -59,7 +60,7 @@ We often think of literature and "the humanities" as far removed from quantifica
 + ["Watch an AI Learn to Write Using Nothing But Austen"](https://www.nytimes.com/interactive/2023/04/26/upshot/gpt-from-scratch.html)
 + Writing Assignment #1 workshops this week
 
-### Week V
+### Week 5
 
 #### February 20
 + *Emma*, 307-445
@@ -76,7 +77,7 @@ We often think of literature and "the humanities" as far removed from quantifica
 
 ## Part 2: Big Data and Small Data
 
-### Week VI
+### Week 6
 
 #### February 27
 + Alfred Tennyson, *In Memoriam*, all
@@ -88,7 +89,7 @@ We often think of literature and "the humanities" as far removed from quantifica
 + "Datasheets for Datasets"
 + Writing Assignment #2 draft due Sunday by midnight
 
-### Week VII
+### Week 7
 
 #### March 5
 + Gwendolyn Brooks, poems from *A Street in Bronzeville*
@@ -102,9 +103,9 @@ We often think of literature and "the humanities" as far removed from quantifica
 *Writing Assignment #2 workshops this week*
 
 
-### Week VIII - SPRING BREAK
+### Week 8 - SPRING BREAK
 
-### Week IX
+### Week 9
 
 #### March 19
 + no class
@@ -113,7 +114,7 @@ We often think of literature and "the humanities" as far removed from quantifica
 + no class
 + Writing Assignment #2 revision due by Sunday midnight
 
-### Week X
+### Week 10
 
 #### March 26
 + Jordan Abel, from *place of scraps*
@@ -127,7 +128,7 @@ We often think of literature and "the humanities" as far removed from quantifica
 
 ## Part 3: data stories, literature vs data?
 
-### Week XI
+### Week 11
 
 #### April 2
 + *The Lost Journals of Sacajawea*, 3-57
@@ -137,7 +138,7 @@ We often think of literature and "the humanities" as far removed from quantifica
 + selections from *Journals of the Lewis and Clark Expedition*
 + Possible visit from Swarthore alum Sierra Mondragon (researcher)
 
-### Week XII
+### Week 12
 
 #### April 9
 + *The Lost Journals of Sacajawea*, 58-132
@@ -151,7 +152,7 @@ We often think of literature and "the humanities" as far removed from quantifica
 
 [*optional event: Verity Harding and Dennis Tennen, 7:30 pm, Philadelphia Free Library*](https://libwww.freelibrary.org/programs/authorevents?id=131542)
 
-### Week XIII
+### Week 13
 
 #### April 16
 + *The Lost Journals of Sacajawea*, 133-181
@@ -161,7 +162,7 @@ We often think of literature and "the humanities" as far removed from quantifica
 + MMIW data and data stories, continued
 + Writing Assignment #3 proposal due
 
-### Week XIV
+### Week 14
 
 #### April 23
 + no class
@@ -171,7 +172,7 @@ We often think of literature and "the humanities" as far removed from quantifica
 + MMIW data and data stories, continued
 + Writing Assignment #3 partial draft due
 
-### Week XV
+### Week 15
 
 #### April 30
 + Writing Assignment #3 projects-in-progress share, wrap-up
