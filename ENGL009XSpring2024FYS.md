@@ -42,11 +42,12 @@ We often think of literature and "the humanities" as far removed from quantifica
 
 #### February 6
 + *Emma*, p 108-211
-+ short assignment: *Emma* criticism + NotebookLM
++ from Franco Moretti, *Style Inc*
 
 #### February 8
 + Sarah Allison, "Other Peoples' Data"
-+ Writing Assignment #1 prewriting due
+  short assignment: *Emma* criticism + NotebookLM
++ Writing Assignment #1 prewriting due by Sunday midnight 
 
 ### Week 4
 
