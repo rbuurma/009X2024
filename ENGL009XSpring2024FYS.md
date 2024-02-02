@@ -43,6 +43,7 @@ We often think of literature and "the humanities" as far removed from quantifica
 #### February 6
 + *Emma*, p 108-211
 + from Franco Moretti, *Style Inc*
++ short assignment: Moretti sentences
 
 #### February 8
 + Sarah Allison, "Other Peoples' Data"
