@@ -43,24 +43,26 @@ We often think of literature and "the humanities" as far removed from quantifica
 #### February 6
 + *Emma*, p 108-211
 + from Franco Moretti, *Style Inc*
-+ short assignment: Moretti sentences
 
 #### February 8
 + Sarah Allison, "Other Peoples' Data"
   short assignment: *Emma* criticism + NotebookLM
-+ Writing Assignment #1 prewriting due by Sunday midnight 
+
+*Writing Assignment #1 prewriting due by Sunday Feb 11th midnight*
 
 ### Week 4
 
 #### February 13
 + *Emma*, p 212-306
-+ Writing Assignment #1 due by Sunday midnight
++ Writing Assignment #1 prewriting workshop (bring 2 copies of your Writing Assignment #1 prewriting)
 
 #### February 15
++ *Emma*, continued
 + Underwood, Bamman, and Lee, "The Transformation of Gender in English-Language Fiction"
 + short assignment: using Underwood, Bamman, and Lee's data
 + ["Watch an AI Learn to Write Using Nothing But Austen"](https://www.nytimes.com/interactive/2023/04/26/upshot/gpt-from-scratch.html)
-+ Writing Assignment #1 workshops this week
+
+*Writing Assignment #1 due Sunday, Feb 18th at midnight*
 
 ### Week 5
 
@@ -74,7 +76,9 @@ We often think of literature and "the humanities" as far removed from quantifica
 + Tim Lee and Sean Trott, [Large language models, explained with a minimum of math and jargon](https://www.understandingai.org/p/large-language-models-explained-with)
 + [Stephen Wolfram, What is CHATGPT Doing...and Why Does It Work](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/)
 + "Stochastic Parrots"
-+ Writing Assignment #1 revision due by Sunday midnight; Writing Assignment #2 assigned
++ Writing Assignment #2 assigned
+
+*Writing Assignment #1 revision due by Sunday Feb 25 midnight*
 
 
 ## Part 2: Big Data and Small Data
@@ -89,21 +93,19 @@ We often think of literature and "the humanities" as far removed from quantifica
 + Alfred Tennyson, *In Memoriam* continued
 + examine the *In Memoriam* index
 + "Datasheets for Datasets"
-+ Writing Assignment #2 draft due Sunday by midnight
++ Writing Assignment #2 preparation due Sunday by midnight
 
 ### Week 7
 
 #### March 5
 + Gwendolyn Brooks, poems from *A Street in Bronzeville*
 + Terrence Hayes, poems from *American Sonnets for My Past And Future Assassin*
++ Writing Assignment #2 preparation workshop
 
 #### March 7
 + William Shakespeare, selections from *Sonnets*
 + Dennis Tenen, excerpt from *Literary Theory for Robots*
 + short assignment: automated sonnets
-
-*Writing Assignment #2 workshops this week*
-
 
 ### Week 8 - SPRING BREAK
 
@@ -114,7 +116,8 @@ We often think of literature and "the humanities" as far removed from quantifica
 
 #### March 21
 + no class
-+ Writing Assignment #2 revision due by Sunday midnight
+
+*Writing Assignment #2 due by Sunday March 24 midnight*
 
 ### Week 10
 
