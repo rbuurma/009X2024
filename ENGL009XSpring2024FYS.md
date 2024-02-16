@@ -75,8 +75,6 @@ We often think of literature and "the humanities" as far removed from quantifica
 
 #### February 22
 + short response: LLM or Markov chain exercise
-+ "Stochastic Parrots"
-+ Ted Underwood, "Mapping the Latent Spaces of Culture"
 + Writing Assignment #2 assigned
 
 *Writing Assignment #1 revision due by Sunday Feb 25 midnight*
@@ -93,7 +91,8 @@ We often think of literature and "the humanities" as far removed from quantifica
 #### February 29
 + Alfred Tennyson, *In Memoriam* continued
 + examine the *In Memoriam* index
-+ "Datasheets for Datasets"
++ "Stochastic Parrots"
++ Ted Underwood, "Mapping the Latent Spaces of Culture"
 + Writing Assignment #2 preparation due Sunday by midnight
 
 ### Week 7
@@ -101,6 +100,7 @@ We often think of literature and "the humanities" as far removed from quantifica
 #### March 5
 + Gwendolyn Brooks, poems from *A Street in Bronzeville*
 + Terrence Hayes, poems from *American Sonnets for My Past And Future Assassin*
++ "Datasheets for Datasets"
 + Writing Assignment #2 preparation workshop
 
 #### March 7
