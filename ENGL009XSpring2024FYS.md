@@ -62,7 +62,7 @@ We often think of literature and "the humanities" as far removed from quantifica
 + short assignment: using Underwood, Bamman, and Lee's data
 + ["Watch an AI Learn to Write Using Nothing But Austen"](https://www.nytimes.com/interactive/2023/04/26/upshot/gpt-from-scratch.html)
 
-*Writing Assignment #1 due Sunday, Feb 18th at midnight*
+*Writing Assignment #1 due Monday, Feb 19th at midnight*
 
 ### Week 5
 
