@@ -68,13 +68,12 @@ We often think of literature and "the humanities" as far removed from quantifica
 
 #### February 20
 + *Emma*, 307-445
++ Underwood, Bamman, and Lee, "The Transformation of Gender in English-Language Fiction"
+
+#### February 22
 + excerpt from *You Look Like A Thing and I Love You*
 + Tim Lee and Sean Trott, [Large language models, explained with a minimum of math and jargon](https://www.understandingai.org/p/large-language-models-explained-with)
 + [Stephen Wolfram, What is CHATGPT Doing...and Why Does It Work](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/)
-
-
-#### February 22
-+ short response: LLM or Markov chain exercise
 + Writing Assignment #2 assigned
 
 *Writing Assignment #1 revision due by Sunday Feb 25 midnight*
@@ -87,6 +86,7 @@ We often think of literature and "the humanities" as far removed from quantifica
 #### February 27
 + Alfred Tennyson, *In Memoriam*, all
 + add procedural poetry examples here
++ short response: LLM or Markov chain exercise
 
 #### February 29
 + Alfred Tennyson, *In Memoriam* continued
