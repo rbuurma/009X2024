@@ -69,6 +69,7 @@ We often think of literature and "the humanities" as far removed from quantifica
 #### February 20
 + *Emma*, 307-445
 + Underwood, Bamman, and Lee, "The Transformation of Gender in English-Language Fiction"
++ workshop: bring three copies of Writing Assignment #1 
 
 #### February 22
 + excerpt from *You Look Like A Thing and I Love You*
