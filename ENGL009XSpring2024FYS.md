@@ -69,7 +69,7 @@ We often think of literature and "the humanities" as far removed from quantifica
 #### February 20
 + *Emma*, 307-445
 + Underwood, Bamman, and Lee, "The Transformation of Gender in English-Language Fiction"
-+ workshop: bring three copies of Writing Assignment #1 
++ workshop: bring three copies of Writing Assignment #1
 
 #### February 22
 + excerpt from *You Look Like A Thing and I Love You*
@@ -78,123 +78,120 @@ We often think of literature and "the humanities" as far removed from quantifica
 
 *Writing Assignment #1 revision due by Sunday Feb 25 midnight*
 
-
-## Part 2: Big Data and Small Data
-
 ### Week 6
 
 #### February 27
-+ Alfred Tennyson, *In Memoriam*, all
-+ add procedural poetry examples here
-+ short response: LLM or Markov chain exercise
++ *Emma*, continued
 + Writing Assignment #2 assigned
++ final questions about Underwood, Bamman, and Lee, "The Transformation of Gender in English-Language Fiction"
++ excerpt from *You Look Like A Thing and I Love You*
++ Tim Lee and Sean Trott, [Large language models, explained with a minimum of math and jargon](https://www.understandingai.org/p/large-language-models-explained-with)
++ OPTIONAL: [Stephen Wolfram, What is CHATGPT Doing...and Why Does It Work](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/)
 
 #### February 29
-+ Alfred Tennyson, *In Memoriam* continued
-+ examine the *In Memoriam* index
-+ "Stochastic Parrots"
++ *Emma*, continued
++ Timrit Gebru et al, "Stochastic Parrots"
++ excerpt from Watt, *The Rise of the Novel* (in class)
++ exerpt from Moretti, *Atlas of the European Novel* (in class)
 + Ted Underwood, "Mapping the Latent Spaces of Culture"
-+ Writing Assignment #2 preparation due Sunday by midnight
++ Writing Assignment #2 preparation due Sunday March 3 by midnight
 
 ### Week 7
 
 #### March 5
-+ Gwendolyn Brooks, poems from *A Street in Bronzeville*
-+ Terrence Hayes, poems from *American Sonnets for My Past And Future Assassin*
++ *Emma*, continued
++ excerpt from Armstrong, *Desire and Domestic Fiction*
++ excerpt from Brooks, *Reading for the Plot* (in class)
 + "Datasheets for Datasets"
 + Writing Assignment #2 preparation workshop
 
 #### March 7
-+ William Shakespeare, selections from *Sonnets*
++ *Emma*, continued
++ Bodenheimer, "Free Indirect Discourse"
++ examine Austen Free Indirect Discourse project:
 + Dennis Tenen, excerpt from *Literary Theory for Robots*
-+ short assignment: automated sonnets
+
+*Writing Assignment #2 draft due Friday March 8, midnight*
 
 ### Week 8 - SPRING BREAK
 
 ### Week 9
 
 #### March 19
-+ no class
++ no class: paper workshops
 
 #### March 21
-+ no class
-
-*Writing Assignment #2 due by Sunday March 24 midnight*
++ no class: paper workshops
 
 ### Week 10
 
 #### March 26
-+ Jordan Abel, from *place of scraps*
-+ Pipkin, ["A Long History of Generated Poetics"](https://everestpipkin.medium.com/a-long-history-of-generated-poetics-cutups-from-dickinson-to-melitzah-fce498083233)
++ Alfred Tennyson, *In Memoriam*
++ short response
 
 #### March 28
-+ Google Book reading
-+ [Andrew Norman Wilson, Workers Leaving the Googleplex](https://www.youtube.com/watch?v=w0RTgOuoi2k)
-+ short assignment
++ Alfred Tennyson, *In Memoriam*, finish entire poem
++ examine the *In Memoriam* index
 + Writing Assignment #3 assigned
 
-## Part 3: data stories, literature vs data?
+*Writing Assignment #2 due by Sunday March 31 midnight*
 
 ### Week 11
 
 #### April 2
-+ *The Lost Journals of Sacajawea*, 3-57
++ Gwendolyn Brooks, poems from *A Street in Bronzeville*
 
 #### April 4
-+ *The Lost Journals of Sacajawea*, continued
-+ selections from *Journals of the Lewis and Clark Expedition*
-+ Possible visit from Swarthore alum Sierra Mondragon (researcher)
++ Gwendolyn Brooks, poems from *A Street in Bronzeville*, continued
 
 ### Week 12
 
 #### April 9
-+ *The Lost Journals of Sacajawea*, 58-132
-+ data stories examples
-+ short assignment
-+ Possible visit from Swarthmore alum Bayliss Wagner (journalist)
++ Terrence Hayes, poems from *American Sonnets for My Past And Future Assassin*
++ procedural poetry examples
 
 #### April 11
-+ Missing and Murdered Indigenous Women database comparison + visit from NIWRC staff if possible
-+ Writing Assignment #3 prewriting due
++ Terrence Hayes, poems from *American Sonnets for My Past And Future Assassin*
++ Pipkin, ["A Long History of Generated Poetics"](https://everestpipkin.medium.com/a-long-history-of-generated-poetics-cutups-from-dickinson-to-melitzah-fce498083233)
++ *Writing Assignment #3 prewriting due Sunday April 14 2024 midnight*
 
 [*optional event: Verity Harding and Dennis Tennen, 7:30 pm, Philadelphia Free Library*](https://libwww.freelibrary.org/programs/authorevents?id=131542)
 
 ### Week 13
 
 #### April 16
-+ *The Lost Journals of Sacajawea*, 133-181
-+ data story examples
++ Jordan Abel, from *place of scraps*
++ short assignment: automated sonnets
 
 #### April 18
-+ MMIW data and data stories, continued
-+ Writing Assignment #3 proposal due
++ Jordan Abel, from *place of scraps*
++ Google Book reading
++ [Andrew Norman Wilson, Workers Leaving the Googleplex](https://www.youtube.com/watch?v=w0RTgOuoi2k)
++ *Writing Assignment #3 proposal due Sunday April 21 midnight*
 
 ### Week 14
 
 #### April 23
 + no class
-+ *The Lost Journals of Sacajawea*, 181-242
 
 #### April 25
-+ MMIW data and data stories, continued
-+ Writing Assignment #3 partial draft due
++ "Land Grab Universities"
++ *Writing Assignment #3 draft due Sunday April 28 midnight*
 
 ### Week 15
 
 #### April 30
-+ Writing Assignment #3 projects-in-progress share, wrap-up
++ Writing Assignment #3 projects-in-progress workshop and share, wrap-up
 
 ### May 3
-+ Writing Assignment #3 projects-in-progress share, wrap-up
++ Writing Assignment #3 projects-in-progress workshop and share, wrap-up
 
-*Writing Assignment #3 partial draft workshop this week*
 *Writing Assignment #3 due May 8 by midnight
 
 ### Course texts available in the bookstore:
 
 Jordan Abel, *the place of scraps* (to be ordered)
 Jane Austen, *Pride and Prejudice*
-Debra Magpie Earling, *The Lost Journals of Sacajawea* (to be ordered)
 
 All other course texts will be available in our Dropbox. I will send you a Dropbox invitation after class today.  *Please be sure to print out assigned texts and bring them to class with you*.
 
