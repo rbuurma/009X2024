@@ -94,7 +94,8 @@ We often think of literature and "the humanities" as far removed from quantifica
 + excerpt from Watt, *The Rise of the Novel* (in class)
 + exerpt from Moretti, *Atlas of the European Novel* (in class)
 + Ted Underwood, "Mapping the Latent Spaces of Culture"
-+ Writing Assignment #2 preparation due Sunday March 3 by midnight
+  
+*Writing Assignment #2 Preparation #1 due Monday March 4 by midnight*
 
 ### Week 7
 
@@ -111,7 +112,7 @@ We often think of literature and "the humanities" as far removed from quantifica
 + examine Austen Free Indirect Discourse project
 + Dennis Tenen, excerpt from *Literary Theory for Robots*
 
-*Writing Assignment #2 draft due Friday March 8, midnight*
+*Writing Assignment #2 Preparation #1 due Friday March 8 or 18, midnight*
 
 ### Week 8 - SPRING BREAK
 
