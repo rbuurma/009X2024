@@ -100,15 +100,15 @@ We often think of literature and "the humanities" as far removed from quantifica
 
 #### March 5
 + *Emma*, continued
-+ excerpt from Armstrong, *Desire and Domestic Fiction*
++ Bodenheimer, "Free Indirect Discourse"
++ excerpt from D.A. Miller, *Jane Austen and the Secret of Style*
++ excerpt from Armstrong, *Desire and Domestic Fiction* (in class)
 + excerpt from Brooks, *Reading for the Plot* (in class)
-+ "Datasheets for Datasets"
 + Writing Assignment #2 preparation workshop
 
 #### March 7
 + *Emma*, continued
-+ Bodenheimer, "Free Indirect Discourse"
-+ examine Austen Free Indirect Discourse project:
++ examine Austen Free Indirect Discourse project
 + Dennis Tenen, excerpt from *Literary Theory for Robots*
 
 *Writing Assignment #2 draft due Friday March 8, midnight*
