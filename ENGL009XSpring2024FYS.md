@@ -95,7 +95,7 @@ We often think of literature and "the humanities" as far removed from quantifica
 + exerpt from Moretti, *Atlas of the European Novel* (in class)
 + Ted Underwood, "Mapping the Latent Spaces of Culture"
   
-*Writing Assignment #2 Preparation #1 due Monday March 4 by midnight*
+*Writing Assignment #2 Preparation #1 (Topic) due Monday March 4 by midnight*
 
 ### Week 7
 
@@ -105,18 +105,20 @@ We often think of literature and "the humanities" as far removed from quantifica
 + excerpt from D.A. Miller, *Jane Austen and the Secret of Style*
 + excerpt from Armstrong, *Desire and Domestic Fiction* (in class)
 + excerpt from Brooks, *Reading for the Plot* (in class)
-+ Writing Assignment #2 preparation workshop
 
 #### March 7
 + *Emma*, continued
 + examine Austen Free Indirect Discourse project
 + Dennis Tenen, excerpt from *Literary Theory for Robots*
++ short data meetings with Professor Buurma
 
-*Writing Assignment #2 Preparation #1 due Friday March 8 or 18, midnight*
+*Writing Assignment #2 Preparation #2 (Data) due Friday March by midnight*
 
 ### Week 8 - SPRING BREAK
 
 ### Week 9
+
+*Writing Assignment #2 Preparation #1 (Topic) due March 19 by midnight*
 
 #### March 19
 + no class: paper workshops
