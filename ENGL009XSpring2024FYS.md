@@ -94,7 +94,7 @@ We often think of literature and "the humanities" as far removed from quantifica
 + excerpt from Watt, *The Rise of the Novel* (in class)
 + exerpt from Moretti, *Atlas of the European Novel* (in class)
 + Ted Underwood, "Mapping the Latent Spaces of Culture"
-  
+
 *Writing Assignment #2 Preparation #1 (Topic) due Monday March 4 by midnight*
 
 ### Week 7
@@ -130,7 +130,6 @@ We often think of literature and "the humanities" as far removed from quantifica
 
 #### March 26
 + Alfred Tennyson, *In Memoriam*
-+ short response
 
 #### March 28
 + Alfred Tennyson, *In Memoriam*, finish entire poem
@@ -150,8 +149,8 @@ We often think of literature and "the humanities" as far removed from quantifica
 ### Week 12
 
 #### April 9
-+ Terrence Hayes, poems from *American Sonnets for My Past And Future Assassin*
-+ procedural poetry examples
++ sonnets by Brooks, Donne, and Shakespeare 
++ writing assignment #3 assigned 
 
 #### April 11
 + Terrence Hayes, poems from *American Sonnets for My Past And Future Assassin*
@@ -163,13 +162,12 @@ We often think of literature and "the humanities" as far removed from quantifica
 ### Week 13
 
 #### April 16
-+ Jordan Abel, from *place of scraps*
-+ short assignment: automated sonnets
++ short assignment
++ + Google Book reading
++ [Andrew Norman Wilson, Workers Leaving the Googleplex](https://www.youtube.com/watch?v=w0RTgOuoi2k)
 
 #### April 18
 + Jordan Abel, from *place of scraps*
-+ Google Book reading
-+ [Andrew Norman Wilson, Workers Leaving the Googleplex](https://www.youtube.com/watch?v=w0RTgOuoi2k)
 + *Writing Assignment #3 proposal due Sunday April 21 midnight*
 
 ### Week 14
