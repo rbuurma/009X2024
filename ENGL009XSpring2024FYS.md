@@ -167,6 +167,7 @@ We often think of literature and "the humanities" as far removed from quantifica
 
 #### April 18
 + Jordan Abel, *Injun* (all)
++ review of *Injun*: https://asapjournal.com/feature/injun-by-jordan-abel-amaranth-borsuk-and-sarah-dowling/
 + *Writing Assignment #3 prep #2 Sunday April 21 midnight*
 
 ### Week 14
@@ -176,7 +177,6 @@ We often think of literature and "the humanities" as far removed from quantifica
 
 #### April 25
 + Jordan Abel, *Injun* (all)
-+ review of *Injun*: https://asapjournal.com/feature/injun-by-jordan-abel-amaranth-borsuk-and-sarah-dowling/
 
 ### Week 15
 
