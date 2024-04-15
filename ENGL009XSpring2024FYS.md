@@ -149,8 +149,8 @@ We often think of literature and "the humanities" as far removed from quantifica
 ### Week 12
 
 #### April 9
-+ sonnets by Brooks, Donne, and Shakespeare 
-+ writing assignment #3 assigned 
++ sonnets by Brooks, Donne, and Shakespeare
++ writing assignment #3 assigned
 
 #### April 11
 + Terrence Hayes, poems from *American Sonnets for My Past And Future Assassin*
@@ -162,13 +162,12 @@ We often think of literature and "the humanities" as far removed from quantifica
 ### Week 13
 
 #### April 16
-+ short assignment
-+ + Google Book reading
++ continue Hayes sonnets
 + [Andrew Norman Wilson, Workers Leaving the Googleplex](https://www.youtube.com/watch?v=w0RTgOuoi2k)
 
 #### April 18
-+ Jordan Abel, from *place of scraps*
-+ *Writing Assignment #3 proposal due Sunday April 21 midnight*
++ Jordan Abel, *Injun* (all)
++ *Writing Assignment #3 prep #2 Sunday April 21 midnight*
 
 ### Week 14
 
@@ -176,8 +175,8 @@ We often think of literature and "the humanities" as far removed from quantifica
 + no class
 
 #### April 25
-+ "Land Grab Universities"
-+ *Writing Assignment #3 draft due Sunday April 28 midnight*
++ Jordan Abel, *Injun* (all)
++ review of *Injun*: https://asapjournal.com/feature/injun-by-jordan-abel-amaranth-borsuk-and-sarah-dowling/
 
 ### Week 15
 
@@ -191,7 +190,7 @@ We often think of literature and "the humanities" as far removed from quantifica
 
 ### Course texts available in the bookstore:
 
-Jordan Abel, *the place of scraps* (to be ordered)
+Jordan Abel, *Injun*
 Jane Austen, *Pride and Prejudice*
 
 All other course texts will be available in our Dropbox. I will send you a Dropbox invitation after class today.  *Please be sure to print out assigned texts and bring them to class with you*.
